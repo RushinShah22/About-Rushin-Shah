@@ -2,28 +2,18 @@
 
 I'm a passionate software developer with a strong background in web development, cloud technologies, and machine learning. I enjoy building scalable, efficient, and innovative solutions that solve real-world problems. My journey in tech has been driven by a continuous desire to learn and explore new technologies.
 
-## 💼 Professional Experience
-
-I have experience working with a variety of technologies and frameworks, including Node.js, Express, MongoDB, and more. I have successfully designed and implemented several full-stack applications, demonstrating strong proficiency in both front-end and back-end development.
-
 ## 🌱 Currently Learning
 
-I'm diving deeper into cloud computing and machine learning. My current focus is on exploring various AWS services and enhancing my knowledge in data science and AI.
+I'm diving deeper into cloud computing and machine learning. My current focus is on exploring various Backend Engineering and Machine Learning.
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, Python, SQL
+- **Languages:** JavaScript, C++, Python 
 - **Frameworks & Libraries:** Node.js, Express, React, Mongoose
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** MongoDB
 - **Tools & Platforms:** Git, Docker, AWS, Stripe, Mapbox
 - **Other:** REST APIs, JWT, OAuth
 
-## 🚀 Projects
-
-Check out my projects on GitHub, including:
-
-- **Natours:** A fictional tour booking website demonstrating modern web development practices.
-- **Other Projects:** Explore various other projects showcasing my skills in web development, cloud computing, and machine learning.
 
 ## 💡 Competitive Programming
 
