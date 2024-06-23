@@ -11,7 +11,7 @@ I'm diving deeper into cloud computing and machine learning. My current focus is
 - **Languages:** JavaScript, C++, Python 
 - **Frameworks & Libraries:** Node.js, Express, React, Mongoose
 - **Databases:** MongoDB
-- **Tools & Platforms:** Git, Docker, AWS, Stripe, Mapbox
+- **Tools & Platforms:** Git, Docker, AWS, Stripe
 - **Other:** REST APIs, JWT, OAuth
 
 
